@@ -1,0 +1,27 @@
+.intro {
+    background-color: rgb(71, 71, 71);
+    border-radius: 15px;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-family: "Segoe UI";
+}
+
+.main_body{
+    margin: auto;
+    padding: 45px;
+    border-radius: 15px;
+    width: 60%;
+    background-image: linear-gradient(rgb(71, 71, 71), rgb(170, 170, 170));
+    color: white;
+    font-family: "Segoe UI";
+    font-size: 22px;
+}
+
+#img1{
+    float: right;
+    width: 45%;
+    margin: 15px;
+    border-radius: 15px;
+}
